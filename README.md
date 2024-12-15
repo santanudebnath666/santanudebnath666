@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="GitHub Header GIF" width="100%" />
 </div>
 
-<div align="center">
-  
 # 💫 About Me:
 🌱 Currently learning: Java<br>💬 Ask me about: C, C++, Python, SQL, Linux<br>📫 How to reach me: liosantanu@gmail.com<br>⚡ Fun fact: I’m like a Java app—complex, intriguing, and once you get to know me, you’ll be hooked in a never-ending loop of falling
 
@@ -13,6 +11,10 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+<div align="center">
+  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=santanudebnath666&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santanudebnath666&theme=dark&hide_border=true)<br/>
