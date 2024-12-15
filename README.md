@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="GitHub Header GIF" width="100%" />
 </div>
 
+<div align="center">
+  
 # 💫 About Me:
 🌱 Currently learning: Java<br>💬 Ask me about: C, C++, Python, SQL, Linux<br>📫 How to reach me: liosantanu@gmail.com<br>⚡ Fun fact: I’m like a Java app—complex, intriguing, and once you get to know me, you’ll be hooked in a never-ending loop of falling
 
@@ -23,6 +25,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+<div align="center">
+  
+![snake gif](https://github.com/santanudebnath666/santanudebnath666/blob/output/github-snake-dark.svg)
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=santanudebnath666&icon=0&color=13)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
